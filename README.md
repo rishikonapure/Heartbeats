@@ -8,3 +8,4 @@ KNN accuracy = 82
 RF accuracy = 72
 
 
+![alt text](https://github.com/rishikonapure/Heartbeats/blob/master/accuracy%20dt_knn_rf.JPG)
